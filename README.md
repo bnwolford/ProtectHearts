@@ -1,4 +1,4 @@
 # ProtectHearts
 Proteomics for Heart disease prediction (MSCA-IF)
 
-![Project Logo](/ProtectHearts.png)
+ <img src="/ProtectHearts.png" alt="Project Logo" width="100" height="100">
